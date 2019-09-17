@@ -1,7 +1,7 @@
 # rainOfMusic
 Art &amp; science project sound painting, metabots &amp; drones
 
-##recognized gestures:
+## recognized gestures:
 
 1. Whole Group
 2. Rest of the Group
