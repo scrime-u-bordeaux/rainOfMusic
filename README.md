@@ -1,5 +1,5 @@
 # rainOfMusic
-Art &amp; science project sound painting, metabots &amp; drones
+Art &amp; science project with sound painting, metabots &amp; drones
 
 ## recognized gestures:
 
